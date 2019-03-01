@@ -2,6 +2,8 @@
 
 [![](https://img.youtube.com/vi/CQ2jJM5RRYg/0.jpg)](https://www.youtube.com/watch?v=CQ2jJM5RRYg)
 
+> 画像をクリックすると動画リンクに飛びます。
+
 - ** mouse_cursor.cpp**では静止画像が表示されてるウインドウのカーソル座標を取得してます。
 
   - /home/hirota/catkin_ws/src/for_blog/mouse_curcor/lena.jpg"の部分は各自の画像の絶対パスを入れてください
